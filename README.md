@@ -1,5 +1,5 @@
 # HakerRank
 ## 30 Days of Python 
 ## 10 Days of JavaScript
-## Improve your coding skill join the 30 days of code challenge [LOGIN](https://www.hackerrank.com/access-account/) for Free🎊  
+## Improve your coding skill join the HackerRank Community [LOGIN](https://www.hackerrank.com/access-account/) for Free🎊  
 ![HackerRank](https://github.com/Divya2k5/HakerRank/blob/main/HackerRank/HackerRank.png)
